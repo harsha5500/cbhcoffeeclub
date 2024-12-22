@@ -1,3 +1,7 @@
-baseURL = 'https://makerspace-kth.github.io/cbhcoffeeclub/'
+baseURL = 'https://harsha5500.github.io/cbhcoffeeclub'
+title = 'CBH Coffee Club'
+theme = "color-your-world"
+
+[params]
 languageCode = 'en-us'
-title = 'Coffee Club'
+title = 'CBH Coffee Club'
